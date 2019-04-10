@@ -5,7 +5,8 @@ pln21 to społeczny projekt, którego głównymi celami są:
 
 - umożliwić niezależnym ekspertom kandydowanie do sejmu
 - stworzyć system kandydowania do sejmu dający równe szanse wszystkim kandydatom (alfabetyczne list kandydatów, specjalizacje okręgów wyborczych itp.)
-- stworzyć przejrzystą i łatwo dostępną platformę ze szczegółowymi informacjami na temat wszystkich naszych kandydatów, ich programów. 
+- stworzyć przejrzystą i łatwo dostępną platformę ze szczegółowymi informacjami
+ na temat wszystkich naszych kandydatów i ich programów. 
 - wprowadzić nowe standardy pracy posłów na wzór nowoczesnych korporacji (np. 40 godzinny tydzień pracy biurowej, metodyka zwinna itp.)
 
 
@@ -14,21 +15,24 @@ pln21 to społeczny projekt, którego głównymi celami są:
 
 
 ### Open Source
-Nad projektem pln21 może pracować każdy. Zadania do wykonania dostępne są na platformie GitHub, i podzielne są na trzy kategorie:
-Sprawy ogólne[link do zadan][https://github.com/PartiaLudziNiezaleznych21/PLN21/issues] sprawy organizacyjne, kwestie prawne, pomysły na promocje parti, itp.
-Okręgi wyborcze[link do zadan][https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze/issues], ustalenie specjalizacji dla każdego z okręgów wyborczych np. rolnictwo czy służba zdrowia. Znalezienie rekruterów, ustalenie wymagań dla kandydatów. Określenie zadań dla przyszłych posłów.
-Organizacja pracy posłów [link do zadan][https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues] 
-organizacja biura i trybu pracy, wymagania dla współpracowników posłów.
+Nad projektem pln21 może pracować każdy. Zadania do wykonania dostępne są na platformie GitHub. Projekt PLN21 podzielony jest na trzy pod-projekty:
+* Sprawy ogólne: sprawy organizacyjne, kwestie prawne, pomysły na promocje parti, itp.  
+[Link do zadan,](https://github.com/PartiaLudziNiezaleznych21/PLN21/issues]) 
+* Okręgi wyborcze: ustalenie specjalizacji dla każdego z okręgów wyborczych np. rolnictwo czy służba zdrowia. 
+Znalezienie rekruterów, ustalenie wymagań dla kandydatów. Określenie zadań dla przyszłych posłów.
+ [Link do zadan,](https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze/issues) [opis projektu](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze)
+* Organizacja pracy posłów:organizacja biura i trybu pracy, wymagania dla współpracowników posłów.  
+  [Link do zadan,](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues)
 
 Każda pomoc jest mile widziana, kilka osób może pracować nad jednym zadaniem jednocześnie. 
-Jeśli chcesz pomóc wejdź w ten [link][https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze/issues], z instrukcjami jak komitować do GitHuba. 
+Jeśli chcesz pomóc wejdź w ten [link](https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze/issues), z instrukcjami jak komitować do GitHuba. 
 
 
 ### Neutralność światopoglądowa
 Priorytetem pln21 jest naprawa państwa, wolimy skupić się na podatkach, sądach, ZUSie, szkolnictwie, służbie zdrowia, rolnictwie, powietrzu … … i tak dalej, bo trochę jest do zrobienia.
 W kwestiach światopoglądowych, trudnych do jednoznacznej oceny przez ekspertów (tj. związki partnerskie, dostęp do aborcji, legalizacja marihuany, rozdział państwa od kościoła, adopcja dzieci przez pary homoseksualne, posiadanie broni, eutanazja) posłowie pln21 będą odzwierciedlać wyniki ogólnopolskiego referendum:
-referendum nie odbyło się = 100% głosów nieważnych w sejmie,
-W referendum na temat ABC na tak było x% osób  = x% głosów za  w sejmie, (100-x)% głosów przeciw.
+* Referendum nie odbyło się = 100% głosów nieważnych w sejmie,
+* W referendum na temat ABC na tak było x% osób  = x% głosów za  w sejmie, (100-x)% głosów przeciw.
 
 
 
@@ -54,7 +58,7 @@ Obecnie z jednego okręgu wyborczego, jednocześnie, startuje lekarz, rolnik, pr
 Efektem tego jest sytuacja, w której w sejmie mamy za dużo celebrytów i historyków
 a za mało ekspertów. Pozatym wybory są niesprawiedliwe, bo ciężko porównać doktora medycyny z doktorem prawa.
 W związku z tym w pln21 każdy z 41 okręgów wyborczych ma, konkretną specjalizację. Dzięki temu mamy pewność, że z każdej dziedziny mamy osoby w sejmie i w odpowiednich proporcjach.
-Specjalizacje są dostępne pod tym [linkiem][https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze],
+Specjalizacje są dostępne pod tym [linkiem](https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze),
 
 ### Przejrzystość kandydatów na posłów
 Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłego posła wraz z opisem jego pomysłów na poprawę sytuacji w Polsce z branży w której jest ekspertem. Ponieważ prawdziwy ekspert jest dobrze rozeznany w swojej branży nie tylko w Polsce ale także za granicą, dlatego też każdy kandydat powinien przedstawić potencjalne rozwiązania problemów z jego tematyki stosowane z powodzeniem w innych krajach. Wszystkie informacje będą napisane w sposób jak najbardziej zrozumiały i dostępny dla wszystkich, bez znaczenia na poziom zaawansowania czytelnika w danej branży. Każdy z kandydatów będzie musiał wypełnić ankietę dotyczącą jego poglądów.  
@@ -63,7 +67,7 @@ Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacy
 ## Nowe standardy pracy posłów
 
 Bycie posłem to nie przywilej tylko praca, dodatkowo bardzo ważna i droga dla podatników. Wydając miesięcznie na jednego posła ponad 100 000 zł, możemy mieć duże wymagania.
-Dlatego jednym z podprojektów jest  [burza mózgów][https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues] jak powni pracować posłowie. Robimy to w dwóch wariantach.  
+Dlatego jednym z podprojektów jest  [burza mózgów](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues) jak powni pracować posłowie. Robimy to w dwóch wariantach.  
 Pln 21 wygrywa wybory i możemy zrobić z Sejmu muzeum i narzucić nasz tryb pracy wszystkim posłom.
 Pln 21 nie wygrywa wyborów, ustalamy jak pracują posłowie gdy nie są  na obradach sejmu.
 
