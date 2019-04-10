@@ -58,7 +58,7 @@ Obecnie z jednego okręgu wyborczego, jednocześnie, startuje lekarz, rolnik, pr
 Efektem tego jest sytuacja, w której w sejmie mamy za dużo celebrytów i historyków
 a za mało ekspertów. Pozatym wybory są niesprawiedliwe, bo ciężko porównać doktora medycyny z doktorem prawa.
 W związku z tym w pln21 każdy z 41 okręgów wyborczych ma, konkretną specjalizację. Dzięki temu mamy pewność, że z każdej dziedziny mamy osoby w sejmie i w odpowiednich proporcjach.
-Specjalizacje są dostępne pod tym [linkiem](https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze),
+Specjalizacje są dostępne pod tym [linkiem](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Specjalizacje%20Okr%C4%99g%C3%B3w%20Wyborczych.md),
 
 ### Przejrzystość kandydatów na posłów
 Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłego posła wraz z opisem jego pomysłów na poprawę sytuacji w Polsce z branży w której jest ekspertem. Ponieważ prawdziwy ekspert jest dobrze rozeznany w swojej branży nie tylko w Polsce ale także za granicą, dlatego też każdy kandydat powinien przedstawić potencjalne rozwiązania problemów z jego tematyki stosowane z powodzeniem w innych krajach. Wszystkie informacje będą napisane w sposób jak najbardziej zrozumiały i dostępny dla wszystkich, bez znaczenia na poziom zaawansowania czytelnika w danej branży. Każdy z kandydatów będzie musiał wypełnić ankietę dotyczącą jego poglądów.  
@@ -80,10 +80,10 @@ Podstawą projektu PracaPoslow jest założenie, że posłowie muszą pracować
  w jednym tym samym biurze w Warszawie, 40 godzin w tygodniu. Czasu pracy będzie monitorowany tak jak w każdej korporacji, za pomocą karty magnetycznej i dostępny dla wszystkich przez internet.
 
 Dodatkowo za pieniądze, które od państwa na prowadzenie biura dostają posłowie można na przykład:
--Wynająć dobre biuro w Warszawie koszt (koszt  około 2000 zł/posła, kawa i sprzątanie wliczone) .
--Zatrudnić managerów do organizacji pracy (około  1000 zł/posła).
--Matematyków do obliczeń,opracowania modeli, i symulacji komputerowych(około 1000 zł/posła).
--Kupić: komputery, oprogramowanie, serwis IT (około 2000 zł/posła)
+- Wynająć dobre biuro w Warszawie koszt (koszt  około 2000 zł/posła, kawa i sprzątanie wliczone) .
+- Zatrudnić managerów do organizacji pracy (około  1000 zł/posła).
+- Matematyków do obliczeń,opracowania modeli, i symulacji komputerowych(około 1000 zł/posła).
+- Kupić: komputery, oprogramowanie, serwis IT (około 2000 zł/posła)
 I wszystko wychodzi dużo taniej niż obecny średni koszt biur poselskich. 
 
 To są tylko propozycje, szczegóły ustalamy już w projekcie GitHub.
