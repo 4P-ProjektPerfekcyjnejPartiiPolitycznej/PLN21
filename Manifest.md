@@ -25,7 +25,7 @@ Znalezienie rekruterów, ustalenie wymagań dla kandydatów. Określenie zadań 
   [Link do zadan,](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues)
 
 Każda pomoc jest mile widziana, kilka osób może pracować nad jednym zadaniem jednocześnie. 
-Jeśli chcesz pomóc wejdź w ten [link](https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze/issues), z instrukcjami jak komitować do GitHuba. 
+Jeśli chcesz pomóc wejdź w ten [link](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/JakEdytowacPliki.md), z instrukcjami jak komitować do GitHuba. 
 
 
 ### Neutralność światopoglądowa
