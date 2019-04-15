@@ -67,7 +67,7 @@ Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacy
 ## Nowe standardy pracy posłów
 
 Bycie posłem to nie przywilej tylko praca, dodatkowo bardzo ważna i droga dla podatników. Wydając miesięcznie na jednego posła ponad 100 000 zł, możemy mieć duże wymagania.
-Dlatego jednym z podprojektów jest  [burza mózgów](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues) jak powni pracować posłowie. Robimy to w dwóch wariantach.  
+Dlatego jednym z podprojektów jest  [burza mózgów](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow) jak powni pracować posłowie. Robimy to w dwóch wariantach.  
 Pln 21 wygrywa wybory i możemy zrobić z Sejmu muzeum i narzucić nasz tryb pracy wszystkim posłom.
 Pln 21 nie wygrywa wyborów, ustalamy jak pracują posłowie gdy nie są  na obradach sejmu.
 
