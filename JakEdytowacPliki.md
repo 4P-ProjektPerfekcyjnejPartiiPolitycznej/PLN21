@@ -18,18 +18,22 @@ W tym celu musi:
 1.Stworzyć kont na Githubie.
 * Otwórz ten [link](https://github.com/PartiaLudziNiezaleznych21)
 * Kliknij “Sign up” ![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja/1rejestracja.PNG)
-* Wpisz jak twój użytkownik ma się nazywać, podaj maila i hasło. Wykonaj zadanie weryfikacyjne i kliknij "Create an account" ![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja/1podajdane.PNG)
+* Wpisz jak twój użytkownik ma się nazywać, podaj maila i hasło. 
+ Wykonaj zadanie weryfikacyjne i kliknij "Create an account" 
+ 
+ ![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja/1podajdane.PNG)
 * Wybierz darmowe konto(Free) i kliknij “Continue” ![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja/2DarmoweKonto.PNG)
 * Kliknij “Submit” ![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja/3submit.PNG)
 * Wejdź na skrzynkę mailową i potwierdź rejestrację![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja/4mail.PNG)
 
 2. Otwórz plik który chcesz edytować np.OkregiWyborcze/Okregi/24Sądownic two/Zadania.md
 3. Kliknij długopis. ![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja/5dlugopis.PNG)
-4. Wprowadź swoje zmiany ![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja6pisanie.PNG)
+4. Wprowadź swoje zmiany ![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja/6pisanie.PNG)
 5. Ponieważ każdy tekst jest formatowany przez Markdown. Upewnij się jak wygląda po sformatowaniu. Kliknij “Preview changes”
+![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja/7preview.PNG)
 6. Wyślij swoje zmiany do administratora: 
 * Podaj tytuł twoich zmian tutaj “Sądownictwo-Zadania”. Jeśli chcesz napisz komentarz. ![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja/8zapisz.PNG)
-* Kliknij “Create pull request”  ![alt text](9pullrequest.PNG)
+* Kliknij “Create pull request”  ![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja/9pullrequest.PNG)
 * Upewnij się czy jesteś zadowolony ze swoich zmian. Jeśli tak kliknij: “Create pull request”  ![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja/10final.PNG)
 * W tym momecie administror może zweryfikować twoje zmiany. NIE klikaj “Close pull request” bo zmiany zostaną usunięte. Zamknij zakładkę  ![alt text](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/Instrukcja/11nieZamykaj.PNG)
 BRAWO
