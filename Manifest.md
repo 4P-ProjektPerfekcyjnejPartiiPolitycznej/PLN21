@@ -9,8 +9,6 @@ pln21 to społeczny projekt, którego głównymi celami są:
  na temat wszystkich naszych kandydatów i ich programów. 
 - wprowadzić nowe standardy pracy posłów na wzór nowoczesnych korporacji (np. 40 godzinny tydzień pracy biurowej, metodyka zwinna itp.)
 
-
-
 ## GŁÓWNE CECHY I ZAŁOŻENIA PLN21
 
 
@@ -21,8 +19,8 @@ Nad projektem pln21 może pracować każdy. Zadania do wykonania dostępne są n
 * Okręgi wyborcze: ustalenie specjalizacji dla każdego z okręgów wyborczych np. rolnictwo czy służba zdrowia. 
 Znalezienie rekruterów, ustalenie wymagań dla kandydatów. Określenie zadań dla przyszłych posłów.
  [Link do zadan,](https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze/issues) [opis projektu](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze)
-* Organizacja pracy posłów:organizacja biura i trybu pracy, wymagania dla współpracowników posłów.  
-  [Link do zadan,](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues)
+* Organizacja pracy posłów:organizacja biura i trybu pracy, zasady zatrudniania współpracowników posłów.  
+  [Link do zadan, ](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues)[opis projektu](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow)
 
 Każda pomoc jest mile widziana, kilka osób może pracować nad jednym zadaniem jednocześnie. 
 Jeśli chcesz pomóc wejdź w ten [link](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/JakEdytowacPliki.md), z instrukcjami jak komitować do GitHuba. 
@@ -64,29 +62,20 @@ Specjalizacje są dostępne pod tym [linkiem](https://github.com/PartiaLudziNiez
 Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłego posła wraz z opisem jego pomysłów na poprawę sytuacji w Polsce z branży w której jest ekspertem. Ponieważ prawdziwy ekspert jest dobrze rozeznany w swojej branży nie tylko w Polsce ale także za granicą, dlatego też każdy kandydat powinien przedstawić potencjalne rozwiązania problemów z jego tematyki stosowane z powodzeniem w innych krajach. Wszystkie informacje będą napisane w sposób jak najbardziej zrozumiały i dostępny dla wszystkich, bez znaczenia na poziom zaawansowania czytelnika w danej branży. Każdy z kandydatów będzie musiał wypełnić ankietę dotyczącą jego poglądów.  
 
 
-## Nowe standardy pracy posłów
+### Nowe standardy pracy posłów
 
-Bycie posłem to nie przywilej tylko praca, dodatkowo bardzo ważna i droga dla podatników. Wydając miesięcznie na jednego posła ponad 100 000 zł, możemy mieć duże wymagania.
-Dlatego jednym z podprojektów jest  [burza mózgów](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow) jak powni pracować posłowie. Robimy to w dwóch wariantach.  
-Pln 21 wygrywa wybory i możemy zrobić z Sejmu muzeum i narzucić nasz tryb pracy wszystkim posłom.
-Pln 21 nie wygrywa wyborów, ustalamy jak pracują posłowie gdy nie są  na obradach sejmu.
+Bycie posłem to nie przywilej tylko praca, dodatkowo bardzo ważna i droga dla podatników. Dlatego jednym z podprojektów pln21 jest [burza mózgów](https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze) jak powinni pracować posłowie. Robimy to w dwóch wariantach:
+* Mamy aktualny tryb pracy sejmu, modelujemy jak powinni pracować posłowie pln21
+* Po wyborach mamy większość w sejmie i możemy zmienić tryb pracy wszystkich posłów
 
+Każdy osoba chętna do kandydowania z pln21 będzie musiała podpisać umowę o przestrzeganiu zasad pracy. 
 
-
-
-
-### Nowoczes typ pracy
-Podstawą projektu PracaPoslow jest założenie, że posłowie muszą pracować
- w jednym tym samym biurze w Warszawie, 40 godzin w tygodniu. Czasu pracy będzie monitorowany tak jak w każdej korporacji, za pomocą karty magnetycznej i dostępny dla wszystkich przez internet.
-
-Dodatkowo za pieniądze, które od państwa na prowadzenie biura dostają posłowie można na przykład:
-- Wynająć dobre biuro w Warszawie koszt (koszt  około 2000 zł/posła, kawa i sprzątanie wliczone) .
-- Zatrudnić managerów do organizacji pracy (około  1000 zł/posła).
-- Matematyków do obliczeń,opracowania modeli, i symulacji komputerowych(około 1000 zł/posła).
-- Kupić: komputery, oprogramowanie, serwis IT (około 2000 zł/posła)
-I wszystko wychodzi dużo taniej niż obecny średni koszt biur poselskich. 
-
-To są tylko propozycje, szczegóły ustalamy już w projekcie GitHub.
+Przy modelowaniu kierujemy się poniższymi zasadami:
+* Posłowie pln21 pracują w jednym tym samym biurze w Warszawie
+* Mają prawa i obowiązki pracownika normalnego pracownika biurowego
+* Nowoczesne zarządzanie (np. techniki zwinne, aplikacje do zarządzania zadaniami typu jira lub trello)
+* Nowe technologie komputerowe
+* Możliwość zatrudnienia dodatkowych osób (np. programistów, matematyków, menedżerów)
 
 
 ### Uczciwość finansowa posłów.
