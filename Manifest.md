@@ -72,11 +72,11 @@ Każdy osoba chętna do kandydowania z pln21 będzie musiała podpisać umowę o
 
 Przy modelowaniu kierujemy się poniższymi zasadami:
 * Posłowie pln21 pracują w jednym tym samym biurze w Warszawie
-* Mają prawa i obowiązki pracownika normalnego pracownika biurowego
+* Mają prawa i obowiązki normalnego pracownika biurowego
 * Nowoczesne zarządzanie (np. techniki zwinne, aplikacje do zarządzania zadaniami typu jira lub trello)
 * Nowe technologie komputerowe
 * Możliwość zatrudnienia dodatkowych osób (np. programistów, matematyków, menedżerów)
-
+* Liczym koszty
 
 ### Uczciwość finansowa posłów.
 Od posłów oczekujemy szacunku dla podatników. Nie po to oddajemy ponad połowę dochodu aby cwaniak z wiejskie lansował się w drogim garniturze czy robił makijaż za 40 tysięcy.
