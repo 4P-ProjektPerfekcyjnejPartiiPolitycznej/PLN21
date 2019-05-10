@@ -3,32 +3,32 @@
 ## Partia Ludzi Niezależnych XXI wieku
 pln21 to społeczny projekt, którego głównymi celami są:
 
-- umożliwić niezależnym ekspertom kandydowanie do sejmu
-- stworzyć system kandydowania do sejmu dający równe szanse wszystkim kandydatom (alfabetyczne list kandydatów, specjalizacje okręgów wyborczych itp.)
-- stworzyć przejrzystą i łatwo dostępną platformę ze szczegółowymi informacjami
- na temat wszystkich naszych kandydatów i ich programów. 
-- wprowadzić nowe standardy pracy posłów na wzór nowoczesnych korporacji (np. 40 godzinny tydzień pracy biurowej, metodyka zwinna itp.)
+- umożliwienie niezależnym ekspertom kandydowanie do sejmu;
+- stworzenie systemu kandydowania do sejmu dającego równe szanse wszystkim kandydatom (alfabetyczne list kandydatów, specjalizacje okręgów wyborczych itp.);
+- stworzenie przejrzystej i łatwo dostępnej platformy ze szczegółowymi informacjami
+ na temat wszystkich naszych kandydatów i ich programów;
+- wprowadzenie nowych standardów pracy posłów na wzór nowoczesnych korporacji (np. 40 godzinny tydzień pracy biurowej, metodyka zwinna itp.).
 
 ## GŁÓWNE CECHY I ZAŁOŻENIA PLN21
 
 
 ### Open Source
 Nad projektem pln21 może pracować każdy. Zadania do wykonania dostępne są na platformie GitHub. Projekt PLN21 podzielony jest na trzy pod-projekty:
-* Sprawy ogólne: sprawy organizacyjne, kwestie prawne, pomysły na promocje parti, itp.  
-[Link do zadan,](https://github.com/PartiaLudziNiezaleznych21/PLN21/issues]) 
+* Sprawy ogólne: sprawy organizacyjne, kwestie prawne, pomysły na promocję partii, itp.  
+[Link do zadań,](https://github.com/PartiaLudziNiezaleznych21/PLN21/issues]) 
 * Okręgi wyborcze: ustalenie specjalizacji dla każdego z okręgów wyborczych np. rolnictwo czy służba zdrowia. 
 Znalezienie rekruterów, ustalenie wymagań dla kandydatów. Określenie zadań dla przyszłych posłów.
- [Link do zadan,](https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze/issues) [opis projektu](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze)
+ [Link do zadań,](https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze/issues) [opis projektu](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze)
 * Organizacja pracy posłów:organizacja biura i trybu pracy, zasady zatrudniania współpracowników posłów.  
-  [Link do zadan, ](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues)[opis projektu](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow)
+  [Link do zadań, ](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues)[opis projektu](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow)
 
 Każda pomoc jest mile widziana, kilka osób może pracować nad jednym zadaniem jednocześnie. 
-Jeśli chcesz pomóc wejdź w ten [link](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/JakEdytowacPliki.md), z instrukcjami jak komitować do GitHuba. 
+Jeśli chcesz pomóc klikinij w ten [link](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/JakEdytowacPliki.md), z instrukcjami jak działa GitHuba. 
 
 
 ### Neutralność światopoglądowa
-Priorytetem pln21 jest naprawa państwa, wolimy skupić się na podatkach, sądach, ZUSie, szkolnictwie, służbie zdrowia, rolnictwie, powietrzu … … i tak dalej, bo trochę jest do zrobienia.
-W kwestiach światopoglądowych, trudnych do jednoznacznej oceny przez ekspertów (tj. związki partnerskie, dostęp do aborcji, legalizacja marihuany, rozdział państwa od kościoła, adopcja dzieci przez pary homoseksualne, posiadanie broni, eutanazja) posłowie pln21 będą odzwierciedlać wyniki ogólnopolskiego referendum:
+Priorytetem pln21 jest naprawa państwa, wolimy skupić się na podatkach, sądach, ZUS-ie, szkolnictwie, służbie zdrowia, rolnictwie, powietrzu… i tak dalej, bo trochę jest do zrobienia.
+W kwestiach światopoglądowych, trudnych do jednoznacznej oceny przez ekspertów (tj. związki partnerskie, dostęp do aborcji, legalizacja marihuany, rozdział państwa od kościoła, adopcja dzieci przez pary homoseksualne, posiadanie broni, eutanazja), posłowie pln21 będą odzwierciedlać wyniki ogólnopolskiego referendum:
 * Referendum nie odbyło się = 100% głosów nieważnych w sejmie,
 * W referendum na temat ABC na tak było x% osób  = x% głosów za  w sejmie, (100-x)% głosów przeciw.
 
@@ -36,58 +36,58 @@ W kwestiach światopoglądowych, trudnych do jednoznacznej oceny przez ekspertó
 
 
 ### Społeczny charakter partii
-pln21 to projekt społeczny. Za prace nad nim nie możesz oczekiwać żadnych materialnych/finansowych korzyści za wkład w jego rozwój. Nie mamy żadnego budżetu, nie zbieramy i nie będziemy zbierać żadnych datków.
+pln21 to projekt społeczny. Za prace nad nim i wkład w jego rozwój NIE możesz oczekiwać żadnych materialnych/finansowych korzyści. Nie mamy żadnego budżetu, nie zbieramy i nie będziemy zbierać żadnych datków.
+
 ### Wysoka kultura osobista
-pln21 to projekt naprawczy polskiego państwa i nie rozliczający poprzedników. Nie ma tu miejsca na obrażanie osób o innych poglądach czy fanów pozostałych partii politycznych. Energię i czas lepiej poświęcić na burze mózgów, szukanie rozwiązań problemów. Udowadnianie komuś że jest zły jest jałowe i nic nie zmienia. Jeśli chce się cokolwiek zmienić trzeba szukać sojuszników, współpracować i szukać kompromisów. Obecny sejm nie potrafi razem rozwiązać wspólnej, żadnej sprawy bo wcześniej wielokrotnie wylewali na siebie wzajemnie pomyje. Musimy pamiętać, że jak wybory się kończą to potem trzeba wspólnie pracować. Llepiej to robić w stosunku neutralno-przyjacielskim niż wrogim.
+pln21 to projekt naprawczy polskiego państwa, a nie rozliczający poprzedników. Nie ma tu miejsca na obrażanie osób o innych poglądach czy fanów pozostałych partii politycznych. Energię i czas lepiej poświęcić na burze mózgów, szukanie rozwiązań problemów. Udowadnianie komuś, że jest zły jest jałowe i nic nie zmienia. Jeśli chce się cokolwiek zmienić, trzeba szukać sojuszników, współpracować i szukać kompromisów. Obecny Sejm nie potrafi razem rozwiązać żadnej wspólenej sprawy, ponieważ wcześniej posłowie wielokrotnie wylewali na siebie na wzajem pomyje. Musimy pamiętać, że kiedy wybory się kończą to potem trzeba wspólnie pracować. Lepiej to robić w stosunku neutralno-przyjacielskim niż wrogim.
+
 ### Program polityczny
-Programu nie ma. Celem pln21 jest umożliwienie osobom które znają swoją dziedzinę najlepiej w Polsce
-kandydowanie do sejmu. Dość niestosowne by było aby ktoś narzucał im co trzeba robić. Jeśli ktoś spędził pół życia 
-w konkretnej branży to jego rozwiązania wiedza i pomysły będą  przyszłym programem.
-Poglądy polityczne nas nie interesuje, dziury w drogach, kolejki do lekarzy nie są ani lewicowe ani prawicowe.
-Jedyne co dyskredytuje osoby chętne do kandydowania z pln21 to populizm.
+Programu nie ma. Celem pln21 jest umożliwienie osobom, które znają swoją dziedzinę najlepiej w Polsce
+kandydowanie do sejmu. Dość niestosowne by było, aby ktoś narzucał im, co trzeba robić. Jeśli ktoś ma wieloletnie doświadczenie w konkretnej branży,  to jego rozwiązania wiedza i pomysły będą  przyszłym programem.
+Poglądy polityczne nas nie interesują. Dziury w drogach czy kolejki do lekarzy nie są ani lewicowe ani prawicowe.
+Jedyne, co dyskredytuje osoby chętne do kandydowania z pln21 to populizm.
 
 
 
 
-## Wybory Parlamentarne
+## Wybory parlamentarne
 
 ### Nowatorskie podejście do okręgów wyborczych i list kandydatów
 Obecnie z jednego okręgu wyborczego, jednocześnie, startuje lekarz, rolnik, prawnik, historyk, celebryta i nauczyciel. 
 Efektem tego jest sytuacja, w której w sejmie mamy za dużo celebrytów i historyków
-a za mało ekspertów. Pozatym wybory są niesprawiedliwe, bo ciężko porównać doktora medycyny z doktorem prawa.
-W związku z tym w pln21 każdy z 41 okręgów wyborczych ma, konkretną specjalizację. Dzięki temu mamy pewność, że z każdej dziedziny mamy osoby w sejmie i w odpowiednich proporcjach.
+a za mało ekspertów. Pozatym wybory są niesprawiedliwe, ponieważ ciężko porównać doktora medycyny z doktorem prawa.
+W związku z tym w pln21 każdy z 41 okręgów wyborczych ma, konkretną specjalizację. Dzięki temu mamy pewność, że w sejmie reprezentują nas osoby z każdej dziedziny i w odpowiednich proporcjach.
 Specjalizacje są dostępne pod tym [linkiem](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Specjalizacje%20Okr%C4%99g%C3%B3w%20Wyborczych.md),
 
 ### Przejrzystość kandydatów na posłów
-Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłego posła wraz z opisem jego pomysłów na poprawę sytuacji w Polsce z branży w której jest ekspertem. Ponieważ prawdziwy ekspert jest dobrze rozeznany w swojej branży nie tylko w Polsce ale także za granicą, dlatego też każdy kandydat powinien przedstawić potencjalne rozwiązania problemów z jego tematyki stosowane z powodzeniem w innych krajach. Wszystkie informacje będą napisane w sposób jak najbardziej zrozumiały i dostępny dla wszystkich, bez znaczenia na poziom zaawansowania czytelnika w danej branży. Każdy z kandydatów będzie musiał wypełnić ankietę dotyczącą jego poglądów.  
+Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłego posła wraz z opisem jego pomysłów na poprawę sytuacji w Polsce z dziedziny w której jest ekspertem. Ponieważ prawdziwy ekspert jest dobrze rozeznany w swojej branży nie tylko w Polsce ale także za granicą, każdy kandydat powinien przedstawić potencjalne rozwiązania problemów z jego tematyki stosowane z powodzeniem w innych krajach. Wszystkie informacje będą napisane w sposób jak najbardziej zrozumiały i dostępny dla wszystkich, bez znaczenia na poziom wiedzy czytelnika w danej branży. Każdy z kandydatów będzie musiał wypełnić ankietę dotyczącą jego poglądów.  
 
 
 ### Nowe standardy pracy posłów
 
 Bycie posłem to nie przywilej tylko praca, dodatkowo bardzo ważna i droga dla podatników. Dlatego jednym z podprojektów pln21 jest [burza mózgów](https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze) jak powinni pracować posłowie. Robimy to w dwóch wariantach:
-* Mamy aktualny tryb pracy sejmu, modelujemy jak powinni pracować posłowie pln21
-* Po wyborach mamy większość w sejmie i możemy zmienić tryb pracy wszystkich posłów
+* Przy aktualnym trybie pracy sejmu modelujemy, jak powinni pracować posłowie pln21
+* Po wyborach będzie wola w sejmie i możemy zmienić tryb pracy wszystkich posłów
 
 Każdy osoba chętna do kandydowania z pln21 będzie musiała podpisać umowę o przestrzeganiu zasad pracy. 
 
-Przy modelowaniu kierujemy się poniższymi zasadami:
-* Posłowie pln21 pracują w jednym tym samym biurze w Warszawie
-* Mają prawa i obowiązki normalnego pracownika biurowego
-* Nowoczesne zarządzanie (np. techniki zwinne, aplikacje do zarządzania zadaniami typu jira lub trello)
-* Nowe technologie komputerowe
-* Możliwość zatrudnienia dodatkowych osób (np. programistów, matematyków, menedżerów)
-* Liczym koszty
+Przy modelowaniu pracy posłów, kierujemy się poniższymi zasadami:
+* Posłowie pln21 pracują w jednym tym samym biurze w Warszawie;
+* Mają prawa i obowiązki normalnego pracownika biurowego;
+* Stosują nowoczesne metody zarządzania (np. techniki zwinne, aplikacje do zarządzania zadaniami typu jira lub trello);
+* Wykorzystują nowe technologie komputerowe;
+* Zaatrudniają dodatkowych osóby (np. programistów, matematyków, menedżerów);
+
 
 ### Uczciwość finansowa posłów.
-Od posłów oczekujemy szacunku dla podatników. Nie po to oddajemy ponad połowę dochodu aby cwaniak z wiejskie lansował się w drogim garniturze czy robił makijaż za 40 tysięcy.
-Gdyby to były jego prywatne pieniądze by tego nie robił.
+Od naszych posłów oczekujemy szacunku dla podatników. Sejm jest zbyt drogą instytucją ([585,5 mln zł na 460 posłów rocznie](http://www.sejm.gov.pl/Sejm8.nsf/komunikat.xsp?documentId=79E43337826C3C2BC12582E20036924F)) i wiele wydatków jest nieuzasadniona.
 
 Dlatego posłowie z pln21 będą mieli zakaz wydawania publicznych pieniędzy.
-Obejmuje to wszystko: bilety pkp, ubrania, obiady itp.
+Obejmuje to wszystko: bilety PKP, paliwo, ubrania, obiady itp.
 
 Z drugiej strony politycy podejmują kluczowe decyzje i są narażeni na finansowe lobby.
 Dodatkowo oczekujmy od nich przeprowadzki do Warszawy.
-Dlatego 100% subwencji z budżetu państwa na partie polityczne, przeznaczymy na premię dla posłów z pln21.
+Dlatego 100% subwencji z budżetu państwa na partie polityczne, przeznaczymy na premie dla posłów z pln21.
 
 Jest to rozwiązanie tańsze niż obecne finansowanie polityków i bardziej skuteczne w walce z korupcją.
 
@@ -103,5 +103,5 @@ Wymyślanie ciągle nowych rozwiązań podobnych sytuacji oraz wieloletnie testo
 generuje ogromne koszty i oddala nas od szybkiego rozwiązania i poprawy stanu obecnego.
 W pln21 chcemy korzystać z doświadczeń innych krajów,
 analizować ich sukcesy i porażki dla danego typu działań.
-Wychodzimy z założenia, że nie ma sensu wymyślać koło na nowo.
+Wychodzimy z założenia, że nie ma sensu wymyślać koła na nowo.
 
