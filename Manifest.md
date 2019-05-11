@@ -83,7 +83,7 @@ Przy modelowaniu pracy posłów, kierujemy się poniższymi zasadami:
 * Mają prawa i obowiązki normalnego pracownika biurowego;
 * Stosują nowoczesne metody zarządzania (np. techniki zwinne, aplikacje do zarządzania zadaniami typu jira lub trello);
 * Wykorzystują nowe technologie komputerowe;
-* Zaatrudniają dodatkowych osóby (np. programistów, matematyków, menedżerów);
+* Zaatrudniają dodatkowe osoby (np. programistów, matematyków, menedżerów);
 
 
 ### Uczciwość finansowa posłów.
