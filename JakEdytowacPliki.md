@@ -1,10 +1,10 @@
 
-Projektu pln21 tworzymy w Githubie  ponieważ jest to najpopularniejszy na świecie serwis do tworzenia projektów typu OpenSource.
+Projektu pln21 tworzymy w Githubie. Jest to najpopularniejszy na świecie serwis do pisania projektów typu OpenSource.
 Jego zaletami są:
 * Kontrola wersji. Wiemy kiedy, przez kogo i co zostało zmienione.
-* Daje możliwość wielu osobą prace nad tym samy plikiem 
-* Bezpieczeństwo, każda zmian pliku musi być zaakceptowana przez administratora projektu. Nik złośliwie nie usunie plików.
-* Każdy nawet bez logowania może przeczytać nasze pomysły
+* Daje możliwość wielu osobą prace nad tym samy plikiem.
+* Bezpieczeństwo, każda zmian pliku musi być zaakceptowana przez administratora projektu. Nik złośliwie nie usunie plików lub napisze coś nieodpowiedniego.
+* Każdy nawet bez logowania może przeczytać nasze pomysły.
 
 
 Każdy plik jest w formacie Markdown (.md). Jest to prosty język do edytowania tekstu,
