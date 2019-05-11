@@ -5,6 +5,10 @@ Jego zaletami są:
 * Daje możliwość wielu osobą prace nad tym samy plikiem.
 * Bezpieczeństwo, każda zmian pliku musi być zaakceptowana przez administratora projektu. Nik złośliwie nie usunie plików lub napisze coś nieodpowiedniego.
 * Każdy nawet bez logowania może przeczytać nasze pomysły.
+* Prostota.
+* Nielimitowana liczba użytkowników.
+* brak kosztów (pln21 nie ma i nie będzie miał żadnego budżetu).
+
 
 
 Każdy plik jest w formacie Markdown (.md). Jest to prosty język do edytowania tekstu,
