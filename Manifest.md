@@ -15,12 +15,12 @@ pln21 to społeczny projekt, którego głównymi celami są:
 ### Open Source
 Nad projektem pln21 może pracować każdy. Zadania do wykonania dostępne są na platformie GitHub. Projekt PLN21 podzielony jest na trzy pod-projekty:
 * Sprawy ogólne: sprawy organizacyjne, kwestie prawne, pomysły na promocję partii, itp.  
-[Link do zadań,](https://github.com/PartiaLudziNiezaleznych21/PLN21/issues]) 
+[Link do zadań,](https://github.com/PartiaLudziNiezaleznych21/PLN21/issues) 
 * Okręgi wyborcze: ustalenie specjalizacji dla każdego z okręgów wyborczych np. rolnictwo czy służba zdrowia. 
 Znalezienie rekruterów, ustalenie wymagań dla kandydatów. Określenie zadań dla przyszłych posłów.
- [Link do zadań,](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/issues) [opis projektu](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze)
+ [Link do zadań](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/issues), [opis projektu](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze)
 * Organizacja pracy posłów:organizacja biura i trybu pracy, zasady zatrudniania współpracowników posłów.  
-  [Link do zadań, ](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues)[opis projektu](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow)
+  [Link do zadań](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues), [opis projektu](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow)
 
 Każda pomoc jest mile widziana, kilka osób może pracować nad jednym zadaniem jednocześnie. 
 Jeśli chcesz pomóc klikinij w ten [link](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/JakEdytowacPliki.md), z instrukcjami jak działa GitHuba. 
