@@ -18,7 +18,7 @@ Nad projektem pln21 może pracować każdy. Zadania do wykonania dostępne są n
 [Link do zadań,](https://github.com/PartiaLudziNiezaleznych21/PLN21/issues]) 
 * Okręgi wyborcze: ustalenie specjalizacji dla każdego z okręgów wyborczych np. rolnictwo czy służba zdrowia. 
 Znalezienie rekruterów, ustalenie wymagań dla kandydatów. Określenie zadań dla przyszłych posłów.
- [Link do zadań,](https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze/issues) [opis projektu](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze)
+ [Link do zadań,](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/issues) [opis projektu](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze)
 * Organizacja pracy posłów:organizacja biura i trybu pracy, zasady zatrudniania współpracowników posłów.  
   [Link do zadań, ](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues)[opis projektu](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow)
 
