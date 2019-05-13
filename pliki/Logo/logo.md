@@ -1,0 +1,1 @@
+W tym folderze zapisujemy propozycje loga partii
