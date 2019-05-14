@@ -59,16 +59,6 @@ W związku z tym w pln21 każdy z 41 okręgów wyborczych ma, konkretną specjal
 reprezentują nas osoby z każdej dziedziny i w odpowiednich proporcjach.
 Specjalizacje są dostępne [w tym linku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Specjalizacje%20Okr%C4%99g%C3%B3w%20Wyborczych.md).
 
-### Przejrzystość kandydatów na posłów
-Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłeg
-posła wraz z opisem jego pomysłów na poprawę sytuacji w Polsce z dziedziny w której jest ekspertem. 
-Ponieważ prawdziwy ekspert jest dobrze rozeznany w swojej branży nie tylko w Polsce ale także za granicą, 
-każdy kandydat powinien przedstawić potencjalne rozwiązania problemów z jego tematyki stosowane z 
-powodzeniem w innych krajach. 
-Wszystkie informacje będą napisane w sposób jak najbardziej zrozumiały i 
-dostępny dla wszystkich, bez znaczenia na poziom wiedzy czytelnika w danej branży. 
-Każdy z kandydatów będzie musiał wypełnić ankietę dotyczącą jego poglądów.  
-
 ### Sprawiedliwy wybór kandydatów.
 
 pln21 nie ma struktur standardowej partii politycznej, 
@@ -82,6 +72,16 @@ pozarządowe zajmujące się tematyką okręgu. Zasady rekrutacji ustalamy my w
 [tym pliku.](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/ZasadyRekrutacji.md). 
 Tak jak wszystkie rzeczy w pln21 agencje rekrutacyjne robią swoją pracę społecznie.
 Zyskać mogą darmową reklamę oraz możliwość życie w lepszym kraju.
+
+### Przejrzystość kandydatów na posłów
+Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłeg
+posła wraz z opisem jego pomysłów na poprawę sytuacji w Polsce z dziedziny w której jest ekspertem. 
+Ponieważ prawdziwy ekspert jest dobrze rozeznany w swojej branży nie tylko w Polsce ale także za granicą, 
+każdy kandydat powinien przedstawić potencjalne rozwiązania problemów z jego tematyki stosowane z 
+powodzeniem w innych krajach. 
+Wszystkie informacje będą napisane w sposób jak najbardziej zrozumiały i 
+dostępny dla wszystkich, bez znaczenia na poziom wiedzy czytelnika w danej branży. 
+Każdy z kandydatów będzie musiał wypełnić ankietę dotyczącą jego poglądów.  
 
 
 ### Nowe standardy pracy posłów
