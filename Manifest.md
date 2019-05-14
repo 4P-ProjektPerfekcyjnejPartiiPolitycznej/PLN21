@@ -55,17 +55,32 @@ Jedyne, co dyskredytuje osoby chętne do kandydowania z pln21 to populizm.
 Obecnie z jednego okręgu wyborczego, jednocześnie, startuje lekarz, rolnik, prawnik, historyk, celebryta i nauczyciel. 
 Efektem tego jest sytuacja, w której w sejmie mamy za dużo celebrytów i historyków
 a za mało ekspertów. Pozatym wybory są niesprawiedliwe, ponieważ ciężko porównać doktora medycyny z doktorem prawa.  
-W związku z tym w pln21 każdy z 41 okręgów wyborczych ma, konkretną specjalizację. Dzięki temu mamy pewność, że w sejmie reprezentują nas osoby z każdej dziedziny i w odpowiednich proporcjach.
+W związku z tym w pln21 każdy z 41 okręgów wyborczych ma, konkretną specjalizację. Dzięki temu mamy pewność, że w sejmie 
+reprezentują nas osoby z każdej dziedziny i w odpowiednich proporcjach.
 Specjalizacje są dostępne [w tym linku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Specjalizacje%20Okr%C4%99g%C3%B3w%20Wyborczych.md).
 
 ### Przejrzystość kandydatów na posłów
-Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłego posła wraz z opisem jego pomysłów na poprawę sytuacji w Polsce z dziedziny w której jest ekspertem. Ponieważ prawdziwy ekspert jest dobrze rozeznany w swojej branży nie tylko w Polsce ale także za granicą, każdy kandydat powinien przedstawić potencjalne rozwiązania problemów z jego tematyki stosowane z powodzeniem w innych krajach. Wszystkie informacje będą napisane w sposób jak najbardziej zrozumiały i dostępny dla wszystkich, bez znaczenia na poziom wiedzy czytelnika w danej branży. Każdy z kandydatów będzie musiał wypełnić ankietę dotyczącą jego poglądów.  
+Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłeg
+posła wraz z opisem jego pomysłów na poprawę sytuacji w Polsce z dziedziny w której jest ekspertem. 
+Ponieważ prawdziwy ekspert jest dobrze rozeznany w swojej branży nie tylko w Polsce ale także za granicą, 
+każdy kandydat powinien przedstawić potencjalne rozwiązania problemów z jego tematyki stosowane z 
+powodzeniem w innych krajach. 
+Wszystkie informacje będą napisane w sposób jak najbardziej zrozumiały i 
+dostępny dla wszystkich, bez znaczenia na poziom wiedzy czytelnika w danej branży. 
+Każdy z kandydatów będzie musiał wypełnić ankietę dotyczącą jego poglądów.  
 
 ### Sprawiedliwy wybór kandydatów.
 
-pln21 nie ma struktur standardowej partii politycznej, nie ma w niej zasłużonych członków którym należy się miejsce na liście wyborczej. Kandydować może każdy kto spełnia wymagania ustalone dla konkretnego okręgu wyborczego ([szczegóły w tym linku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze)). Wystarczy wysłać CV z listem motywacyjnym. 
+pln21 nie ma struktur standardowej partii politycznej, 
+nie ma w niej zasłużonych członków którym należy się miejsce na liście wyborczej. 
+Kandydować może każdy kto spełnia wymagania ustalone dla konkretnego okręgu 
+wyborczego([szczegóły w tym linku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze)). 
+Wystarczy wysłać CV z listem motywacyjnym. 
 
-Wybór kandydatów będą dokonywały profesjonalne agencje rekrutacyjne oraz organizacje pozarządowe zajmujące się tematyką okręgu. Zasady rekrutacji ustalamy my w [tym pliku.](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/ZasadyRekrutacji.md). Tak jak wszystkie rzeczy w pln21 agencje rekrutacyjne robią swoją pracę społecznie.
+Wybór kandydatów będą dokonywały profesjonalne agencje rekrutacyjne oraz organizacje 
+pozarządowe zajmujące się tematyką okręgu. Zasady rekrutacji ustalamy my w 
+[tym pliku.](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/ZasadyRekrutacji.md). 
+Tak jak wszystkie rzeczy w pln21 agencje rekrutacyjne robią swoją pracę społecznie.
 Zyskać mogą darmową reklamę oraz możliwość życie w lepszym kraju.
 
 
