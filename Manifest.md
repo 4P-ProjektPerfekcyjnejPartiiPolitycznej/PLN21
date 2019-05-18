@@ -9,12 +9,12 @@ pln21 to społeczny projekt, którego głównymi celami są:
  na temat wszystkich naszych kandydatów i ich programów;
 - wprowadzenie nowych standardów pracy posłów na wzór nowoczesnych korporacji (np. 40 godzinny tydzień pracy biurowej, metodyka zwinna itp.).
 
-## GŁÓWNE CECHY I ZAŁOŻENIA PLN21
+## GŁÓWNE CECHY I ZAŁOŻENIA pln21
 
 
 ### Otwarta Treść
-Najbardziej znanym programem typu Otwarta Treść jest Wikipedia, pln21 jest jego politycznym odpowiednikiem.
-Nad projektem pln21 może pracować każdy. Zadania do wykonania dostępne są na platformie GitHub. Projekt PLN21 podzielony jest na trzy pod-projekty:
+Najbardziej znanym projektem typu "Otwarta Treść" jest Wikipedia, pln21 jest jej politycznym odpowiednikiem.
+Każdy może współtworzyć pln21. Zadania do wykonania dostępne są na platformie GitHub. Projekt pln21 podzielony jest na trzy pod-projekty:
 * Sprawy ogólne: sprawy organizacyjne, kwestie prawne, pomysły na promocję partii, itp. [Link do zadań](https://github.com/PartiaLudziNiezaleznych21/PLN21/issues).
 * Okręgi wyborcze: ustalenie specjalizacji dla każdego z okręgów wyborczych np. rolnictwo czy służba zdrowia. 
 Znalezienie rekruterów, ustalenie wymagań dla kandydatów. Określenie zadań dla przyszłych posłów.
