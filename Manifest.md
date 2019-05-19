@@ -11,10 +11,14 @@ pln21 to społeczny projekt, którego głównymi celami są:
 
 ## GŁÓWNE CECHY I ZAŁOŻENIA pln21
 
+### Społeczny charakter partii
+pln21 to projekt społeczny. Za prace nad nim i wkład w jego rozwój NIE możesz oczekiwać żadnych materialnych/finansowych korzyści. Nie mamy żadnego budżetu, nie zbieramy i nie będziemy zbierać żadnych datków.
 
-### Otwarta Treść
-Najbardziej znanym projektem typu "Otwarta Treść" jest Wikipedia, pln21 jest jej politycznym odpowiednikiem.
-Każdy może współtworzyć pln21. Zadania do wykonania dostępne są na platformie GitHub. Projekt pln21 podzielony jest na trzy pod-projekty:
+### Crowdsourcing
+
+Założenie partii wymaga dużo nakładów pracy i ciężko wymagać od kilku osób aby czyniły to bezinteresownie. Rozwiązaniem tego problemu jest [crowdsourcing](https://pl.wikipedia.org/wiki/Crowdsourcing), który polega na tym że setki osób robią pracę jednostek. 
+Każdy, kto chce zmian w polskiej polityce może współtworzyć pln21. Zadania do wykonania dostępne są na platformie GitHub. Projekt pln21 podzielony jest na trzy pod-projekty:
+
 * Sprawy ogólne: sprawy organizacyjne, kwestie prawne, pomysły na promocję partii, itp. [Link do zadań](https://github.com/PartiaLudziNiezaleznych21/PLN21/issues).
 * Okręgi wyborcze: ustalenie specjalizacji dla każdego z okręgów wyborczych np. rolnictwo czy służba zdrowia. 
 Znalezienie rekruterów, ustalenie wymagań dla kandydatów. Określenie zadań dla przyszłych posłów.
@@ -31,12 +35,6 @@ Priorytetem pln21 jest naprawa państwa, wolimy skupić się na podatkach, sąda
 W kwestiach światopoglądowych, trudnych do jednoznacznej oceny przez ekspertów (tj. związki partnerskie, dostęp do aborcji, legalizacja marihuany, rozdział państwa od kościoła, adopcja dzieci przez pary homoseksualne, posiadanie broni, eutanazja), posłowie pln21 będą odzwierciedlać wyniki ogólnopolskiego referendum:
 * Referendum nie odbyło się = 100% głosów nieważnych w sejmie,
 * W referendum na temat ABC na tak było x% osób  = x% głosów za  w sejmie, (100-x)% głosów przeciw.
-
-
-
-
-### Społeczny charakter partii
-pln21 to projekt społeczny. Za prace nad nim i wkład w jego rozwój NIE możesz oczekiwać żadnych materialnych/finansowych korzyści. Nie mamy żadnego budżetu, nie zbieramy i nie będziemy zbierać żadnych datków.
 
 ### Wysoka kultura osobista
 pln21 to projekt naprawczy polskiego państwa, a nie rozliczający poprzedników. Nie ma tu miejsca na obrażanie osób o innych poglądach czy fanów pozostałych partii politycznych. Energię i czas lepiej poświęcić na burze mózgów, szukanie rozwiązań problemów. Udowadnianie komuś, że jest zły jest jałowe i nic nie zmienia. Jeśli chce się cokolwiek zmienić, trzeba szukać sojuszników, współpracować i szukać kompromisów. Obecny Sejm nie potrafi razem rozwiązać żadnej wspólenej sprawy, ponieważ wcześniej posłowie wielokrotnie wylewali na siebie na wzajem pomyje. Musimy pamiętać, że kiedy wybory się kończą to potem trzeba wspólnie pracować. Lepiej to robić w stosunku neutralno-przyjacielskim niż wrogim.
