@@ -11,9 +11,6 @@ pln21 to społeczny projekt, którego głównymi celami są:
 
 ## GŁÓWNE CECHY I ZAŁOŻENIA pln21
 
-### Społeczny charakter partii
-pln21 to projekt społeczny. Za prace nad nim i wkład w jego rozwój NIE możesz oczekiwać żadnych materialnych/finansowych korzyści. Nie mamy żadnego budżetu, nie zbieramy i nie będziemy zbierać żadnych datków.
-
 ### Crowdsourcing
 
 Założenie partii politycznej wymaga dużych nakładów pracy. Ciężko to zrobić samodzielnie lub z grupą znajomych, mając codzienne obowiązki. Rozwiązaniem tego problemu jest [crowdsourcing](https://pl.wikipedia.org/wiki/Crowdsourcing), który polega na tym, że setki osób robią pracę jednostki. 
@@ -30,6 +27,9 @@ Znalezienie rekruterów, ustalenie wymagań dla kandydatów. Określenie zadań 
 Każda pomoc jest mile widziana, kilka osób może pracować nad jednym zadaniem jednocześnie. 
 Jeśli chcesz pomóc klikinij w ten [link](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/JakEdytowacPliki.md), z instrukcjami jak działa GitHuba. 
 
+
+### Społeczny charakter partii
+pln21 to projekt społeczny. Za prace nad nim i wkład w jego rozwój NIE możesz oczekiwać żadnych materialnych/finansowych korzyści. Nie mamy żadnego budżetu, nie zbieramy i nie będziemy zbierać żadnych datków.
 
 ### Neutralność światopoglądowa
 Priorytetem pln21 jest naprawa państwa, wolimy skupić się na podatkach, sądach, ZUS-ie, szkolnictwie, służbie zdrowia, rolnictwie, powietrzu… i tak dalej, bo trochę jest do zrobienia.
