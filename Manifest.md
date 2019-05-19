@@ -16,8 +16,9 @@ pln21 to projekt społeczny. Za prace nad nim i wkład w jego rozwój NIE możes
 
 ### Crowdsourcing
 
-Założenie partii wymaga dużo nakładów pracy i ciężko wymagać od kilku osób aby czyniły to bezinteresownie. Rozwiązaniem tego problemu jest [crowdsourcing](https://pl.wikipedia.org/wiki/Crowdsourcing), który polega na tym że setki osób robią pracę jednostek. 
-Każdy, kto chce zmian w polskiej polityce może współtworzyć pln21. Zadania do wykonania dostępne są na platformie GitHub. Projekt pln21 podzielony jest na trzy pod-projekty:
+Założenie partii politycznej wymaga dużych nakładów pracy. Ciężko to zrobić samodzielnie lub z grupą znajomych, mając codzienne obowiązki. Rozwiązaniem tego problemu jest [crowdsourcing](https://pl.wikipedia.org/wiki/Crowdsourcing), który polega na tym, że setki osób robią pracę jednostki. 
+Każdy, kto chce zmian w polskiej polityce może współtworzyć pln21. Zadania do 
+wykonania dostępne są na platformie GitHub. Projekt pln21 podzielony jest na trzy pod-projekty:
 
 * Sprawy ogólne: sprawy organizacyjne, kwestie prawne, pomysły na promocję partii, itp. [Link do zadań](https://github.com/PartiaLudziNiezaleznych21/PLN21/issues).
 * Okręgi wyborcze: ustalenie specjalizacji dla każdego z okręgów wyborczych np. rolnictwo czy służba zdrowia. 
@@ -44,8 +45,6 @@ Programu nie ma. Celem pln21 jest umożliwienie osobom, które znają swoją dzi
 kandydowanie do sejmu. Dość niestosowne by było, aby ktoś narzucał im, co trzeba robić. Jeśli ktoś ma wieloletnie doświadczenie w konkretnej branży,  to jego rozwiązania wiedza i pomysły będą  przyszłym programem.
 Poglądy polityczne nas nie interesują. Dziury w drogach czy kolejki do lekarzy nie są ani lewicowe ani prawicowe.
 Jedyne, co dyskredytuje osoby chętne do kandydowania z pln21 to populizm.
-
-
 
 
 ## Wybory parlamentarne
