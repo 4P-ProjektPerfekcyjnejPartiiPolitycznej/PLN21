@@ -13,9 +13,9 @@ pln21 to społeczny projekt, którego głównymi celami są:
 
 ### Crowdsourcing
 
-Założenie partii politycznej wymaga dużych nakładów pracy. Ciężko to zrobić samodzielnie lub z grupą znajomych, mając codzienne obowiązki. Rozwiązaniem tego problemu jest [crowdsourcing](https://pl.wikipedia.org/wiki/Crowdsourcing), który polega na tym, że setki osób robią pracę jednostki. 
+Najbardziej znanym projektem typu [crowdsourcing](https://pl.wikipedia.org/wiki/Crowdsourcing) jest Wikipedia, pln21 jest jej politycznym odpowiednikiem. 
 Każdy, kto chce zmian w polskiej polityce może współtworzyć pln21. Zadania do 
-wykonania dostępne są na platformie GitHub. Projekt pln21 podzielony jest na trzy pod-projekty:
+wykonania dostępne są na platformie GitHub. Projekt podzielony jest na trzy pod-projekty:
 
 * Sprawy ogólne: sprawy organizacyjne, kwestie prawne, pomysły na promocję partii, itp. [Link do zadań](https://github.com/PartiaLudziNiezaleznych21/PLN21/issues).
 * Okręgi wyborcze: ustalenie specjalizacji dla każdego z okręgów wyborczych np. rolnictwo czy służba zdrowia. 
@@ -67,7 +67,7 @@ Wystarczy wysłać CV z listem motywacyjnym.
 
 Wybór kandydatów będą dokonywały profesjonalne agencje rekrutacyjne oraz organizacje 
 pozarządowe zajmujące się tematyką okręgu. Zasady rekrutacji ustalamy my w 
-[tym pliku.](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/ZasadyRekrutacji.md). 
+[tym pliku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/ZasadyRekrutacji.md). 
 Tak jak wszystkie rzeczy w pln21 agencje rekrutacyjne robią swoją pracę społecznie.
 Zyskać mogą darmową reklamę oraz możliwość życie w lepszym kraju.
 
