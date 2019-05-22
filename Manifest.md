@@ -4,7 +4,7 @@
 pln21 to społeczny projekt, którego głównymi celami są:
 
 - umożliwienie niezależnym ekspertom kandydowanie do sejmu;
-- stworzenie systemu kandydowania do sejmu dającego równe szanse wszystkim kandydatom (alfabetyczne list kandydatów, specjalizacje okręgów wyborczych itp.);
+- stworzenie systemu kandydowania do sejmu dającego równe szanse wszystkim kandydatom (alfabetyczne listy kandydatów, specjalizacje okręgów wyborczych itp.);
 - stworzenie przejrzystej i łatwo dostępnej platformy ze szczegółowymi informacjami
  na temat wszystkich naszych kandydatów i ich programów;
 - wprowadzenie nowych standardów pracy posłów na wzór nowoczesnych korporacji (np. 40 godzinny tydzień pracy biurowej, metodyka zwinna itp.).
@@ -25,7 +25,7 @@ Znalezienie rekruterów, ustalenie wymagań dla kandydatów. Określenie zadań 
   [Link do zadań](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues), [opis projektu](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow).
 
 Każda pomoc jest mile widziana, kilka osób może pracować nad jednym zadaniem jednocześnie. 
-Jeśli chcesz pomóc klikinij w ten [link](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/JakEdytowacPliki.md), z instrukcjami jak działa GitHuba. 
+Jeśli chcesz pomóc klikinij w ten [link](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/JakEdytowacPliki.md), z instrukcjami jak działa GitHub. 
 
 
 ### Społeczny charakter partii
@@ -52,7 +52,7 @@ Jedyne, co dyskredytuje osoby chętne do kandydowania z pln21 to populizm.
 ### Nowatorskie podejście do okręgów wyborczych i list kandydatów
 Obecnie z jednego okręgu wyborczego, jednocześnie, startuje lekarz, rolnik, prawnik, historyk, celebryta i nauczyciel. 
 Efektem tego jest sytuacja, w której w sejmie mamy za dużo celebrytów i historyków
-a za mało ekspertów. Pozatym wybory są niesprawiedliwe, ponieważ ciężko porównać doktora medycyny z doktorem prawa.  
+a za mało ekspertów. Poza tym wybory są niesprawiedliwe, ponieważ ciężko porównać doktora medycyny z doktorem prawa.  
 W związku z tym w pln21 każdy z 41 okręgów wyborczych ma, konkretną specjalizację. Dzięki temu mamy pewność, że w sejmie 
 reprezentują nas osoby z każdej dziedziny i w odpowiednich proporcjach.
 Specjalizacje są dostępne [w tym linku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Specjalizacje%20Okr%C4%99g%C3%B3w%20Wyborczych.md).
@@ -72,7 +72,7 @@ Tak jak wszystkie rzeczy w pln21 agencje rekrutacyjne robią swoją pracę społ
 Zyskać mogą darmową reklamę oraz możliwość życie w lepszym kraju.
 
 ### Przejrzystość kandydatów na posłów
-Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłeg
+Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłego
 posła wraz z opisem jego pomysłów na poprawę sytuacji w Polsce z dziedziny w której jest ekspertem. 
 Ponieważ prawdziwy ekspert jest dobrze rozeznany w swojej branży nie tylko w Polsce ale także za granicą, 
 każdy kandydat powinien przedstawić potencjalne rozwiązania problemów z jego tematyki stosowane z 
@@ -95,7 +95,7 @@ Przy modelowaniu pracy posłów, kierujemy się poniższymi zasadami:
 * Mają prawa i obowiązki normalnego pracownika biurowego;
 * Stosują nowoczesne metody zarządzania (np. techniki zwinne, aplikacje do zarządzania zadaniami typu jira lub trello);
 * Wykorzystują nowe technologie komputerowe;
-* Zaatrudniają dodatkowe osoby (np. programistów, matematyków, menedżerów);
+* Zatrudniają dodatkowe osoby (np. programistów, matematyków, menedżerów);
 
 
 ### Uczciwość finansowa posłów.
