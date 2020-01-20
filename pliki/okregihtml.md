@@ -1,3 +1,4 @@
+Aktualne, nie ostateczne specjalizacje okręgów:
 
 <table class="table table-bordered table-hover table-condensed">
 <tbody><tr> 
