@@ -9,6 +9,44 @@ pln21 to społeczny projekt, którego głównymi celami są:
  na temat wszystkich naszych kandydatów i ich programów;
 - wprowadzenie nowych standardów pracy posłów na wzór nowoczesnych korporacji (np. 40 godzinny tydzień pracy biurowej, metodyka zwinna itp.).
 
+
+## Wybory parlamentarne
+
+### Nowatorskie podejście do okręgów wyborczych i list kandydatów
+Obecnie z jednego okręgu wyborczego, jednocześnie, startuje lekarz, rolnik, prawnik, historyk, celebryta i nauczyciel. 
+Efektem tego jest sytuacja, w której w sejmie mamy za dużo celebrytów i historyków
+a za mało ekspertów. Poza tym wybory są niesprawiedliwe, ponieważ ciężko porównać doktora medycyny z doktorem prawa.  
+W związku z tym w pln21 każdy z 41 okręgów wyborczych ma, konkretną specjalizację. Dzięki temu mamy pewność, że w sejmie 
+reprezentują nas osoby z każdej dziedziny i w odpowiednich proporcjach.
+Specjalizacje są dostępne [w tym linku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Specjalizacje%20Okr%C4%99g%C3%B3w%20Wyborczych.md).
+
+### Sprawiedliwy wybór kandydatów.
+
+pln21 nie ma struktur standardowej partii politycznej, 
+nie ma w niej zasłużonych członków którym należy się miejsce na liście wyborczej. 
+Kandydować może każdy kto spełnia wymagania ustalone dla konkretnego okręgu 
+wyborczego([szczegóły w tym linku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze)). 
+Wystarczy wysłać CV z listem motywacyjnym. 
+
+Wybór kandydatów będą dokonywały profesjonalne agencje rekrutacyjne oraz organizacje 
+pozarządowe zajmujące się tematyką okręgu. Zasady rekrutacji ustalamy my w 
+[tym pliku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/ZasadyRekrutacji.md). 
+Tak jak wszystkie rzeczy w pln21 agencje rekrutacyjne robią swoją pracę społecznie.
+Zyskać mogą darmową reklamę oraz możliwość życie w lepszym kraju.
+
+### Przejrzystość kandydatów na posłów
+Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłego
+posła wraz z opisem jego pomysłów na poprawę sytuacji w Polsce z dziedziny w której jest ekspertem. 
+Ponieważ prawdziwy ekspert jest dobrze rozeznany w swojej branży nie tylko w Polsce ale także za granicą, 
+każdy kandydat powinien przedstawić potencjalne rozwiązania problemów z jego tematyki stosowane z 
+powodzeniem w innych krajach. 
+Wszystkie informacje będą napisane w sposób jak najbardziej zrozumiały i 
+dostępny dla wszystkich, bez znaczenia na poziom wiedzy czytelnika w danej branży. 
+Każdy z kandydatów będzie musiał wypełnić ankietę dotyczącą jego poglądów.  
+
+
+
+
 ## GŁÓWNE CECHY I ZAŁOŻENIA pln21
 
 ### Crowdsourcing
@@ -46,43 +84,22 @@ kandydowanie do sejmu. Dość niestosowne by było, aby ktoś narzucał im, co t
 Poglądy polityczne nas nie interesują. Dziury w drogach czy kolejki do lekarzy nie są ani lewicowe ani prawicowe.
 Jedyne, co dyskredytuje osoby chętne do kandydowania z pln21 to populizm.
 
+### Wysoka wartość konsultacji społecznych
+Ludzie w pln21 zdają sobie sprawę, że nie zawsze wszystko wiedzą i warto skonsultować swoje pomysły z różnymi grupami społecznymi i ekspertami. W związku z tym do pracy przy pisaniu ustaw zapraszane będą organizacje pozarządowe działające w zakresie omawianej tematyki ustaw, a także pracownicy uczelni wyższych.
 
-## Wybory parlamentarne
+### Ustawy ponad podziałami
+W pln21 chcemy wykorzystywać doświadczenia i pomysły innych partii politycznych. W chwili obecnej najczęstszym schematem działań kolejnych partii przejmujących władzę jest rezygnacja z większości projektów zapoczątkowanych przez poprzedników i wymyślanie własnych, często niedopracowanych, ale, co najważniejsze, odmiennych od pomysłów przeciwników politycznych. Takie podejście do polityki generuje ogromne koszty związane z ciągłym przeprowadzaniem reform i uniemożliwia realizację długoterminowych projektów.
 
-### Nowatorskie podejście do okręgów wyborczych i list kandydatów
-Obecnie z jednego okręgu wyborczego, jednocześnie, startuje lekarz, rolnik, prawnik, historyk, celebryta i nauczyciel. 
-Efektem tego jest sytuacja, w której w sejmie mamy za dużo celebrytów i historyków
-a za mało ekspertów. Poza tym wybory są niesprawiedliwe, ponieważ ciężko porównać doktora medycyny z doktorem prawa.  
-W związku z tym w pln21 każdy z 41 okręgów wyborczych ma, konkretną specjalizację. Dzięki temu mamy pewność, że w sejmie 
-reprezentują nas osoby z każdej dziedziny i w odpowiednich proporcjach.
-Specjalizacje są dostępne [w tym linku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/Specjalizacje%20Okr%C4%99g%C3%B3w%20Wyborczych.md).
-
-### Sprawiedliwy wybór kandydatów.
-
-pln21 nie ma struktur standardowej partii politycznej, 
-nie ma w niej zasłużonych członków którym należy się miejsce na liście wyborczej. 
-Kandydować może każdy kto spełnia wymagania ustalone dla konkretnego okręgu 
-wyborczego([szczegóły w tym linku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze)). 
-Wystarczy wysłać CV z listem motywacyjnym. 
-
-Wybór kandydatów będą dokonywały profesjonalne agencje rekrutacyjne oraz organizacje 
-pozarządowe zajmujące się tematyką okręgu. Zasady rekrutacji ustalamy my w 
-[tym pliku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/ZasadyRekrutacji.md). 
-Tak jak wszystkie rzeczy w pln21 agencje rekrutacyjne robią swoją pracę społecznie.
-Zyskać mogą darmową reklamę oraz możliwość życie w lepszym kraju.
-
-### Przejrzystość kandydatów na posłów
-Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłego
-posła wraz z opisem jego pomysłów na poprawę sytuacji w Polsce z dziedziny w której jest ekspertem. 
-Ponieważ prawdziwy ekspert jest dobrze rozeznany w swojej branży nie tylko w Polsce ale także za granicą, 
-każdy kandydat powinien przedstawić potencjalne rozwiązania problemów z jego tematyki stosowane z 
-powodzeniem w innych krajach. 
-Wszystkie informacje będą napisane w sposób jak najbardziej zrozumiały i 
-dostępny dla wszystkich, bez znaczenia na poziom wiedzy czytelnika w danej branży. 
-Każdy z kandydatów będzie musiał wypełnić ankietę dotyczącą jego poglądów.  
+### Korzystanie z doświadczenia innych państw
+Wiele państw, szczególnie europejskich, boryka się z tymi samymi problemami co Polska.
+Wymyślanie ciągle nowych rozwiązań podobnych sytuacji oraz wieloletnie testowanie ich skuteczności
+generuje ogromne koszty i oddala nas od szybkiego rozwiązania i poprawy stanu obecnego.
+W pln21 chcemy korzystać z doświadczeń innych krajów,
+analizować ich sukcesy i porażki dla danego typu działań.
+Wychodzimy z założenia, że nie ma sensu wymyślać koła na nowo.
 
 
-### Nowe standardy pracy posłów
+## Nowe standardy pracy posłów
 Celem tego projektu jest również stworzenie jak najbardziej efektywnego modelu pracy posła. Który będzie musiał zaakceptować każdy kandydat z naszej partii.
 
 Obecne w uproszczeniu wygląda to tak, [że około 55 dniu](https://www.sejm.gov.pl/sejm8.nsf/terminarz.xsp?rok=2018))poseł jest w sejmie a w pozostałym czasie pracuje w swoim biurze (czasami kilku biurach) poselskim, gdzie zatrudnia sekretarkę i robi to co chce. Jest to drogie i nieefektywne.
@@ -108,17 +125,4 @@ Dlatego 100% subwencji z budżetu państwa na partie polityczne, przeznaczymy na
 
 Jest to rozwiązanie tańsze niż obecne finansowanie polityków i bardziej skuteczne w walce z korupcją.
 
-### Wysoka wartość konsultacji społecznych
-Ludzie w pln21 zdają sobie sprawę, że nie zawsze wszystko wiedzą i warto skonsultować swoje pomysły z różnymi grupami społecznymi i ekspertami. W związku z tym do pracy przy pisaniu ustaw zapraszane będą organizacje pozarządowe działające w zakresie omawianej tematyki ustaw, a także pracownicy uczelni wyższych.
-
-### Ustawy ponad podziałami
-W pln21 chcemy wykorzystywać doświadczenia i pomysły innych partii politycznych. W chwili obecnej najczęstszym schematem działań kolejnych partii przejmujących władzę jest rezygnacja z większości projektów zapoczątkowanych przez poprzedników i wymyślanie własnych, często niedopracowanych, ale, co najważniejsze, odmiennych od pomysłów przeciwników politycznych. Takie podejście do polityki generuje ogromne koszty związane z ciągłym przeprowadzaniem reform i uniemożliwia realizację długoterminowych projektów.
-
-### Korzystanie z doświadczenia innych państw
-Wiele państw, szczególnie europejskich, boryka się z tymi samymi problemami co Polska.
-Wymyślanie ciągle nowych rozwiązań podobnych sytuacji oraz wieloletnie testowanie ich skuteczności
-generuje ogromne koszty i oddala nas od szybkiego rozwiązania i poprawy stanu obecnego.
-W pln21 chcemy korzystać z doświadczeń innych krajów,
-analizować ich sukcesy i porażki dla danego typu działań.
-Wychodzimy z założenia, że nie ma sensu wymyślać koła na nowo.
 
