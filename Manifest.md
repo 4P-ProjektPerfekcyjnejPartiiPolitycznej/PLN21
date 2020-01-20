@@ -83,19 +83,17 @@ Każdy z kandydatów będzie musiał wypełnić ankietę dotyczącą jego poglą
 
 
 ### Nowe standardy pracy posłów
+Celem tego projektu jest również stworzenie jak najbardziej efektywnego modelu pracy posła. Który będzie musiał zaakceptować każdy kandydat z naszej partii.
 
-Bycie posłem to nie przywilej tylko praca, dodatkowo bardzo ważna i droga dla podatników. Dlatego jednym z podprojektów pln21 jest [burza mózgów](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow) jak powinni pracować posłowie. Robimy to w dwóch wariantach:
-* Przy aktualnym trybie pracy sejmu modelujemy, jak powinni pracować posłowie pln21
-* Po wyborach będzie wola w sejmie i możemy zmienić tryb pracy wszystkich posłów
+Obecne w uproszczeniu wygląda to tak, [że około 55 dniu](https://www.sejm.gov.pl/sejm8.nsf/terminarz.xsp?rok=2018))poseł jest w sejmie a w pozostałym czasie pracuje w swoim biurze (czasami kilku biurach) poselskim, gdzie zatrudnia sekretarkę i robi to co chce. Jest to drogie i nieefektywne.
 
-Każdy osoba chętna do kandydowania z pln21 będzie musiała podpisać umowę o przestrzeganiu zasad pracy. 
-
-Przy modelowaniu pracy posłów, kierujemy się poniższymi zasadami:
-* Posłowie pln21 pracują w jednym tym samym biurze w Warszawie;
-* Mają prawa i obowiązki normalnego pracownika biurowego;
-* Stosują nowoczesne metody zarządzania (np. techniki zwinne, aplikacje do zarządzania zadaniami typu jira lub trello);
-* Wykorzystują nowe technologie komputerowe;
-* Zatrudniają dodatkowe osoby (np. programistów, matematyków, menedżerów);
+Nowy model pracy opiera się na poniższych założeniach:
+jedno wspólne biuro w Warszawie,
+praca przez cały rok z 26 dniami urlopu jak normalny pracownik biurowy
+z dodatkowymi prawami i obowiązkami [określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/PrawaObowiazkiZakazy.md)
+wdrażanie dobrych praktyk z korporacji (praca w systemie  Scrum ,monitorowanie czasu, kanban).[Określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/NoweStandardyPracy.md)
+Wykorzystywanie nowoczesnych technologii ( praca w chmurze, jira).[Określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/NoweTechnologie.md)
+Zatrudnienie jednej sekretarki i wielu specjalistów(np. osoby do robienie analiz ryzyka cz statystycznych, programisty, tłumacz).[Określonymi w tym pliku](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/blob/master/WspolpracownicyPoslow.md)
 
 
 ### Uczciwość finansowa posłów.
