@@ -84,7 +84,7 @@ Każdy z kandydatów będzie musiał wypełnić ankietę dotyczącą jego poglą
 
 ### Nowe standardy pracy posłów
 
-Bycie posłem to nie przywilej tylko praca, dodatkowo bardzo ważna i droga dla podatników. Dlatego jednym z podprojektów pln21 jest [burza mózgów](https://github.com/PartiaLudziNiezwleznych21/OkregiWyborcze) jak powinni pracować posłowie. Robimy to w dwóch wariantach:
+Bycie posłem to nie przywilej tylko praca, dodatkowo bardzo ważna i droga dla podatników. Dlatego jednym z podprojektów pln21 jest [burza mózgów](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow) jak powinni pracować posłowie. Robimy to w dwóch wariantach:
 * Przy aktualnym trybie pracy sejmu modelujemy, jak powinni pracować posłowie pln21
 * Po wyborach będzie wola w sejmie i możemy zmienić tryb pracy wszystkich posłów
 
