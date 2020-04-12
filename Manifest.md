@@ -335,6 +335,8 @@ nie ma w niej zasłużonych członków którym należy się miejsce na liście w
 Kandydować może każdy kto spełnia wymagania ustalone dla konkretnego okręgu 
 wyborczego([szczegóły w tym linku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze)). 
 Wystarczy wysłać CV z listem motywacyjnym. 
+Kolejność na liście wyborczej będzie alfabetyczna, nikogo nie faworyzujemy.
+
 
 Wybór kandydatów będą dokonywały profesjonalne agencje rekrutacyjne oraz organizacje 
 pozarządowe zajmujące się tematyką okręgu. Zasady rekrutacji ustalamy my w 
