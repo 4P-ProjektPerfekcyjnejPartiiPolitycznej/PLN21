@@ -3,7 +3,7 @@
 ## Partia Ludzi Niezależnych XXI wieku
 pln21 to społeczny projekt, którego głównymi celami są:
 
-- umożliwienie niezależnym ekspertom kandydowanie do sejmu;
+- umożliwienie niezależnym ekspertom, ludziom z pomysłami i doświadoczonym managerom kandydowania do sejmu;
 - stworzenie systemu kandydowania do sejmu dającego równe szanse wszystkim kandydatom (alfabetyczne listy kandydatów, specjalizacje okręgów wyborczych itp.);
 - stworzenie przejrzystej i łatwo dostępnej platformy ze szczegółowymi informacjami
  na temat wszystkich naszych kandydatów i ich programów;
@@ -296,7 +296,7 @@ Aktualne, nie ostateczne specjalizacje okręgów:
 </tr>
 <tr>
 <td>38</td>
-<td>PKP</td>
+<td>PKP-PKS</td>
 <td>38</td>
 <td>Piła</td>
 <td>9</td>
