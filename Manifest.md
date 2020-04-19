@@ -380,6 +380,15 @@ W kwestiach światopoglądowych, trudnych do jednoznacznej oceny przez ekspertó
 
 * W referendum na temat ABC na tak było x% osób  = x% głosów za  w sejmie, (100-x)% głosów przeciw.
 
+### Przejrzysta forma głosowania w sejmie
+Posłowie głosują proporcjonalnie do opinii wydanej przez swoich ekspertów z danej dziedziny oraz współpracujacych think-tanków. 
+
+ Na przykład głosowanie odnośnie ustawy smogowej. 
+ 
+Mamy trzech posłów z tej specjalizacji, dwóch jest za ustawą, jeden przeciw. Z dwóch współpracujących organizacji (np alarmy smogowe) obie sa za.
+
+Posłowie głosują : 80% za 20% przeciw.
+
 ### Wysoka kultura osobista
 pln21 to projekt naprawczy polskiego państwa, a nie rozliczający poprzedników. Nie ma tu miejsca na obrażanie osób o innych poglądach czy fanów pozostałych partii politycznych. Energię i czas lepiej poświęcić na burze mózgów, szukanie rozwiązań problemów. Udowadnianie komuś, że jest zły jest jałowe i nic nie zmienia. Jeśli chce się cokolwiek zmienić, trzeba szukać sojuszników, współpracować i szukać kompromisów. Obecny Sejm nie potrafi razem rozwiązać żadnej wspólenej sprawy, ponieważ wcześniej posłowie wielokrotnie wylewali na siebie na wzajem pomyje. Musimy pamiętać, że kiedy wybory się kończą to potem trzeba wspólnie pracować. Lepiej to robić w stosunku neutralno-przyjacielskim niż wrogim.
 
