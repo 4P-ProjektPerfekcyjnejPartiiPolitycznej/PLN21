@@ -1,7 +1,7 @@
 ## Partia Ludzi Niezależnych XXI wieku
 pln21 to społeczny projekt, którego głównymi celami są:
 
-- umożliwienie niezależnym ekspertom, ludziom z pomysłami i doświadoczonym managerom kandydowanie do sejmu;
+- umożliwienie niezależnym ekspertom, ludziom z pomysłami i doświadoczonym managerom kandydowania do sejmu;
 - stworzenie systemu kandydowania do sejmu dającego równe szanse wszystkim kandydatom (alfabetyczne list kandydatów, specjalizacje okręgów wyborczych itp.);
 - stworzenie przejrzystej i łatwo dostępnej platformy ze szczegółowymi informacjami
  na temat wszystkich naszych kandydatów i ich programów;
