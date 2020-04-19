@@ -337,8 +337,7 @@ Kolejność na liście wyborczej będzie alfabetyczna, nikogo nie faworyzujemy.
 Wybór kandydatów będą dokonywały profesjonalne agencje rekrutacyjne oraz organizacje 
 pozarządowe zajmujące się tematyką okręgu. Zasady rekrutacji ustalamy my w 
 [tym pliku](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/blob/master/ZasadyRekrutacji.md). 
-Tak jak wszystkie rzeczy w pln21 agencje rekrutacyjne robią swoją pracę społecznie.
-Zyskać mogą darmową reklamę oraz możliwość życie w lepszym kraju.
+
 
 ### Przejrzystość kandydatów na posłów
 Na naszej stronie internetowej dostępne będą szczegółowe CV i list motywacyjny każdego kandydata na przyszłego
@@ -367,6 +366,7 @@ Znalezienie rekruterów, ustalenie wymagań dla kandydatów. Określenie zadań 
  [Link do zadań](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze/issues), [opis projektu](https://github.com/PartiaLudziNiezaleznych21/OkregiWyborcze).
 * Organizacja pracy posłów:organizacja biura i trybu pracy, zasady zatrudniania współpracowników posłów.  
   [Link do zadań](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow/issues), [opis projektu](https://github.com/PartiaLudziNiezaleznych21/PracaPoslow).
+* Elektroniczne referendum. Projekt dla programistów mający na celu stworzenie platformy gdzie każdy obywatel RP będzie mógł zagłosować online. [Opis projektu](https://github.com/PartiaLudziNiezaleznych21/ElektroniczneReferendum).
 
 Każda pomoc jest mile widziana, kilka osób może pracować nad jednym zadaniem jednocześnie. 
 Jeśli chcesz pomóc klikinij w ten [link](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/JakEdytowacPliki.md), z instrukcjami jak działa GitHub. 
