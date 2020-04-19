@@ -416,7 +416,7 @@ Wychodzimy z założenia, że nie ma sensu wymyślać koła na nowo.
 ## Nowe standardy pracy posłów
 Celem tego projektu jest również stworzenie jak najbardziej efektywnego modelu pracy posła. Który będzie musiał zaakceptować każdy kandydat z naszej partii.
 
-Obecne w uproszczeniu wygląda to tak, [że około 55 dniu](https://www.sejm.gov.pl/sejm8.nsf/terminarz.xsp?rok=2018))poseł jest w sejmie a w pozostałym czasie pracuje w swoim biurze (czasami kilku biurach) poselskim, gdzie zatrudnia sekretarkę i robi to co chce. Jest to drogie i nieefektywne.
+Obecne w uproszczeniu wygląda to tak, [że około 55 dniu](https://www.sejm.gov.pl/sejm8.nsf/terminarz.xsp?rok=2018) poseł jest w sejmie a w pozostałym czasie pracuje w swoim biurze (czasami kilku biurach) poselskim, gdzie zatrudnia sekretarkę i robi to co chce. Jest to drogie i nieefektywne.
 
 Nowy model pracy opiera się na poniższych założeniach:
 - jedno wspólne biuro w Warszawie,
