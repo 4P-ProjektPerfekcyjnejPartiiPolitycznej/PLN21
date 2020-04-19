@@ -435,7 +435,8 @@ Obejmuje to wszystko: bilety PKP, paliwo, ubrania, obiady itp.
 
 Z drugiej strony politycy podejmują kluczowe decyzje i są narażeni na finansowe lobby.
 Dodatkowo oczekujmy od nich przeprowadzki do Warszawy.
-Dlatego 100% subwencji z budżetu państwa na partie polityczne, przeznaczymy na premie dla posłów z pln21.
+Dlatego 75% subwencji z budżetu państwa na partie polityczne, przeznaczymy na premie dla posłów z pln21
+(Pozostałe 10% -koszty administracyjne, 15% wymagny w ustawie o partiach politycznych Fundusz Ekspercki).
 
 Jest to rozwiązanie tańsze niż obecne finansowanie polityków i bardziej skuteczne w walce z korupcją.
 
