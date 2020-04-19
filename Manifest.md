@@ -377,8 +377,8 @@ pln21 to projekt społeczny. Za prace nad nim i wkład w jego rozwój NIE możes
 
 ### Neutralność światopoglądowa
 Priorytetem pln21 jest naprawa państwa, wolimy skupić się na podatkach, sądach, ZUS-ie, szkolnictwie, służbie zdrowia, rolnictwie, powietrzu… i tak dalej, bo trochę jest do zrobienia.
-W kwestiach światopoglądowych, trudnych do jednoznacznej oceny przez ekspertów (tj. związki partnerskie, dostęp do aborcji, legalizacja marihuany, rozdział państwa od kościoła, adopcja dzieci przez pary homoseksualne, posiadanie broni, eutanazja), posłowie pln21 będą odzwierciedlać wyniki ogólnopolskiego referendum:
-* Referendum nie odbyło się = 100% głosów nieważnych w sejmie,
+W kwestiach światopoglądowych, trudnych do jednoznacznej oceny przez ekspertów (tj. związki partnerskie, dostęp do aborcji, legalizacja marihuany, rozdział państwa od kościoła, adopcja dzieci przez pary homoseksualne, posiadanie broni, eutanazja), posłowie pln21 będą odzwierciedlać wyniki referendum, które będzie dostępne w ramach tego projektu. 
+
 * W referendum na temat ABC na tak było x% osób  = x% głosów za  w sejmie, (100-x)% głosów przeciw.
 
 ### Wysoka kultura osobista
