@@ -13,7 +13,7 @@ pln21 to społeczny projekt, którego głównymi celami są:
 ## Wybory parlamentarne
 
 ### Nowatorskie podejście do okręgów wyborczych i list kandydatów
-W pln21 każdy z 41 okręgów wyborczych ma jedną konkretną specjalizację. Dzięki temu, już przed wyborami, możemy zamodelować ile specjalistów i z jakiej dziedziny będzie w sejmie. Wyborca ma jasne kryterium wyboru, może ocenić który kandydat będzie najbardziej potrzebny.
+W pln21 każdy z 41 okręgów wyborczych ma jedną konkretną specjalizację. Dzięki temu, już przed wyborami, możemy zamodelować ile specjalistów i z jakiej dziedziny będzie w sejmie. Wyborca ma jasne kryterium wyboru, może ocenić który kandydat ma najlepsze pomysły na rozwiązanie problemów z tej jednej specjalizacji.
 
 Aktualne, nie ostateczne specjalizacje okręgów:
 <table class="table table-bordered table-hover table-condensed">
