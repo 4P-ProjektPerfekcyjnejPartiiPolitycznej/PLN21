@@ -381,12 +381,13 @@ W kwestiach światopoglądowych, trudnych do jednoznacznej oceny przez ekspertó
 * W referendum na temat ABC na tak było x% osób  = x% głosów za  w sejmie, (100-x)% głosów przeciw.
 
 ### Przejrzysta forma głosowania w sejmie
-Jako projekt otwarty każdy może zaproponować metodę w jaki sposób powinni głosować posłowie pln21 ([link do pliku](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/SystemGlosowania.md)). 
+Jako projekt otwarty każdy może zaproponować metodę, w jaki sposób powinni głosować posłowie pln21 ([link do pliku](https://github.com/PartiaLudziNiezaleznych21/PLN21/blob/master/pliki/SystemGlosowania.md)). 
+
 Aktualnie najrozsądniejsza metoda:
+
 Posłowie głosują proporcjonalnie do opinii wydanej przez swoich ekspertów z danej dziedziny oraz współpracujacych think-tanków. 
 
-Na przykład, głosowanie odnośnie ustawy smogowej. 
- 
+Na przykład, głosowanie odnośnie ustawy smogowej.  
 Mamy trzech posłów z tej specjalizacji, dwóch jest za ustawą, jeden przeciw. Z dwóch współpracujących organizacji (np alarmy smogowe) obie sa za.
 Posłowie głosują : 80% za 20% przeciw.
 
